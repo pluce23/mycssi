@@ -45,6 +45,23 @@ else:
     print("Hero not found.")'''
 
 
-names = ["Rickon", "Bran", "Arya", "Sansa", "Jon", "Robb"]
+'''names = ["Rickon", "Bran", "Arya", "Sansa", "Jon", "Robb"]
 print(names[::-1])
-print(names[4:2:-1])
+print(names[4:2:-1])'''
+
+
+'''states = {"NY": "New York",
+    "CA": "California",
+    "TX": "Texas",
+    "WI": "Wisconsin",
+    "NC": "North Carolina",
+    "NV": "Nevada"}
+for abbreviation in states:
+    print(abbreviation + " is short for " + states[abbreviation])'''
+
+pet = {
+    "name": "Ein",
+    "animal": "dog",
+    "species": "Corgi",
+    "age": 5
+}
